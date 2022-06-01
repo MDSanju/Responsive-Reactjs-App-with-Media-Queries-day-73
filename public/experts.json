@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "Expert COffee Maker-1",
+        "price": 51300,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/X2XZLDD/Untitled-design-2.png"
+    },
+    {
+        "id": 2,
+        "name": "Expert COffee Maker-2",
+        "price": 15500,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/ckDT33N/Untitled-design-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Expert COffee Maker-3",
+        "price": 459600,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/6FFYK2S/Untitled-design.png"
+    },
+    {
+        "id": 4,
+        "name": "Expert COffee Maker-4",
+        "price": 45800,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/jMfcM9w/Untitled-design-3.png"
+    },
+    {
+        "id": 5,
+        "name": "Expert COffee Maker-5",
+        "price": 18400,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/yWVNs3X/Untitled-design-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Expert COffee Maker-6",
+        "price": 441400,
+        "description": "Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world.",
+        "img": "https://i.ibb.co/T0Hs7qV/Untitled-design-4.png"
+    }
+]

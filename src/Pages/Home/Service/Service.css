@@ -1,0 +1,21 @@
+.service {
+    background-color: #222;
+    color: white;
+    width: 350px;
+    min-height: 595px;
+    border-radius: 10px;
+}
+
+.service img {
+    border-radius: 10px;
+}
+
+@media only screen and (max-width:374px) {
+    .service {
+        width: 300px;
+        height: 500px;
+    }
+    .service img {
+        width: 300px;
+    }
+}

@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "Black Coffee",
+        "price": 2000,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/hVPMhHk/coffee-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Long Black or Americano",
+        "price": 4500,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/W5gNKfw/coffee-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Coffee Beens",
+        "price": 3900,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/K7mhyQj/coffee-3.png"
+    },
+    {
+        "id": 4,
+        "name": "Loak Coffee",
+        "price": 1900,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/Qn6JNHc/coffee-4.png"
+    },
+    {
+        "id": 5,
+        "name": "Macchiato",
+        "price": 3700,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/YDCGM5z/coffee-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Ristretto",
+        "price": 2800,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique quidem quaerat voluptatibus harum, pariatur blanditiis labore neque eveniet optio minima natus laborum temporibus eum",
+        "img": "https://i.ibb.co/PzrMwLK/coffee-6.png"
+    }
+]
