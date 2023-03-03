@@ -3,6 +3,7 @@ import useAuth from "../../../hooks/useAuth";
 
 const Login = () => {
   const { signInUsingGoogle } = useAuth();
+  console.log(signInUsingGoogle);
   return (
     <div>
       <h2>Please Login</h2>
